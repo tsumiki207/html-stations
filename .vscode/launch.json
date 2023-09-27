@@ -4,11 +4,13 @@
     // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         {
-            "type": "msedge",
+            "type": "msedge", 
+            // "type": "chrome",
             "request": "launch",
             "name": "Open station1.html",
-            "file": "/Users/nishiyamamitsuki/html-stations/src/station1.html"
+            "file": "/Users/nishiyamamitsuki/html-stations/src/station15.html"
         }
     ]
 }
